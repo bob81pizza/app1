@@ -37,7 +37,7 @@ end
 group :production do
 	gem 'postgres-pr'
 end
-group :development, :test do 
+group :development do 
 	gem 'sqlite3'
 end
 
