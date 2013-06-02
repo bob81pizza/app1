@@ -38,7 +38,7 @@ group :production do
 	gem 'postgres-pr'
 end
 group :development do 
-	gem 'sqlite3'
+	gem 'postgres-pr'
 end
 
 # Use ActiveModel has_secure_password
